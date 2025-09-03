@@ -59,7 +59,8 @@ This project develops a state-of-the-art wildfire prediction framework using a *
 * 🧭 Confusion matrices and performance breakdowns
 * 🌄 Multichannel input feature visualizations
 
-![Sample Sentinel Input](./sentinel-2%20visualization.png)
+![Wildfire Segmentation Example](./sample_40.png)
+
 
 ---
 
