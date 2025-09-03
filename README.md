@@ -99,8 +99,3 @@ This project develops a state-of-the-art wildfire prediction framework using a *
 * Create regional wildfire dashboards for public use
 
 ---
-
-### 🤝 Team
-
-* Aubay Azzarouk — Modeling, Data Integration, Literature
-* Jared, Andrew, Cayden — Development, Evaluation, State Data Expansion
