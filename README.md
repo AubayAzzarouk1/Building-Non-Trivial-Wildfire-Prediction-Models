@@ -68,9 +68,9 @@ This project develops a state-of-the-art wildfire prediction framework using a *
 
 | File                                                              | Description                                                        |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------ |
-| `wildfire_prediction.pdf`                                         | Stanford reference paper used as baseline                          |
-| `Creating Non-Trivial Wildfire Prediction Models Final Paper.pdf` | Final capstone report with model comparison, visuals, and findings |
-| `Screenshot 2025-09-02 at 10.28.31 PM.png`                        | GitHub preview screenshot (optional)                               |
+|[Stanford Wildfire Segmentation Paper (Bhowmik et al., 2022)](https://arxiv.org/pdf/2208.09079)| Stanford reference paper by Rohan T. Bhowmik used as baseline                          |
+[`Creating Non-Trivial Wildfire Prediction Models Final Paper.pdf`](./Creating%20Non-Trivial%20Wildfire%20Prediction%20Models%20Final%20Paper.pdf) | Final capstone report with model comparison, visuals, and findings |
+
 
 ---
 
